@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/younyikim/Tic-Tac-Toe-React/game/static/css/main.d16098b0.chunk.css",
-    "main.js": "/younyikim/Tic-Tac-Toe-React/game/static/js/main.457b715c.chunk.js",
-    "main.js.map": "/younyikim/Tic-Tac-Toe-React/game/static/js/main.457b715c.chunk.js.map",
-    "runtime-main.js": "/younyikim/Tic-Tac-Toe-React/game/static/js/runtime-main.c78ade7d.js",
-    "runtime-main.js.map": "/younyikim/Tic-Tac-Toe-React/game/static/js/runtime-main.c78ade7d.js.map",
-    "static/js/2.66b3ef18.chunk.js": "/younyikim/Tic-Tac-Toe-React/game/static/js/2.66b3ef18.chunk.js",
-    "static/js/2.66b3ef18.chunk.js.map": "/younyikim/Tic-Tac-Toe-React/game/static/js/2.66b3ef18.chunk.js.map",
-    "index.html": "/younyikim/Tic-Tac-Toe-React/game/index.html",
-    "static/css/main.d16098b0.chunk.css.map": "/younyikim/Tic-Tac-Toe-React/game/static/css/main.d16098b0.chunk.css.map",
-    "static/js/2.66b3ef18.chunk.js.LICENSE.txt": "/younyikim/Tic-Tac-Toe-React/game/static/js/2.66b3ef18.chunk.js.LICENSE.txt"
+    "main.css": "/Tic-Tac-Toe-React/game/static/css/main.d16098b0.chunk.css",
+    "main.js": "/Tic-Tac-Toe-React/game/static/js/main.457b715c.chunk.js",
+    "main.js.map": "/Tic-Tac-Toe-React/game/static/js/main.457b715c.chunk.js.map",
+    "runtime-main.js": "/Tic-Tac-Toe-React/game/static/js/runtime-main.8acbabcb.js",
+    "runtime-main.js.map": "/Tic-Tac-Toe-React/game/static/js/runtime-main.8acbabcb.js.map",
+    "static/js/2.66b3ef18.chunk.js": "/Tic-Tac-Toe-React/game/static/js/2.66b3ef18.chunk.js",
+    "static/js/2.66b3ef18.chunk.js.map": "/Tic-Tac-Toe-React/game/static/js/2.66b3ef18.chunk.js.map",
+    "index.html": "/Tic-Tac-Toe-React/game/index.html",
+    "static/css/main.d16098b0.chunk.css.map": "/Tic-Tac-Toe-React/game/static/css/main.d16098b0.chunk.css.map",
+    "static/js/2.66b3ef18.chunk.js.LICENSE.txt": "/Tic-Tac-Toe-React/game/static/js/2.66b3ef18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c78ade7d.js",
+    "static/js/runtime-main.8acbabcb.js",
     "static/js/2.66b3ef18.chunk.js",
     "static/css/main.d16098b0.chunk.css",
     "static/js/main.457b715c.chunk.js"
